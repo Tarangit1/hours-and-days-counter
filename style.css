@@ -2,7 +2,7 @@
 
 body {
   font-family: 'Roboto', sans-serif; /* Custom font */
-  background-color: #f0f0f0;
+  background-color: #1d242e;
   margin: 0;
   padding: 0;
   display: flex;
@@ -13,12 +13,12 @@ body {
 }
 
 h1 {
-  color: #333;
-  font-size: 24px;
+  color: #7e8892;
+  font-size:25px;
 }
 
 p {
-  color: #555;
-  font-size: 18px;
+  color: #d0def4;
+  font-size: 80px;
   text-align: center; /* Center text within the paragraphs */
 }
